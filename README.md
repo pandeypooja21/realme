@@ -41,6 +41,7 @@ This portfolio is my digital identity — a space where I share:
 
 ## 📁 Folder Structure
 realme/
+
 ├── index.html # Main landing page
 ├── thanks.html # Thank you page after contact form
 ├── sitemap.xml # For search engine indexing
@@ -54,7 +55,7 @@ realme/
 You can connect with me via the contact form on the site or reach out at:
 
 - LinkedIn: [linkedin.com/in/poojapandey21](https://www.linkedin.com/in/poojapandey21)
-- Email: [your-email@example.com] *(replace this)*
+- Email: [poojapandey13325@gmail.com] 
 
 ---
 
